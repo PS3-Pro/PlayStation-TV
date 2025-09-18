@@ -1,1 +1,0 @@
-Type "settings:dev" in the home search bar.

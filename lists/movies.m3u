@@ -1,0 +1,26 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="LANÇAMENTOS" tvg-logo="https://raw.githubusercontent.com/SANTPLAY/POSTERFLIX/main/POSTER-MENU/FILMES/ACAO-FILMES.png, ACAO | CRIME
+https://raw.github.com/PS3-Pro/PlayStation-TV/main/lists/content/movies/ACAO.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LANÇAMENTOS" tvg-logo="https://raw.githubusercontent.com/SANTPLAY/POSTERFLIX/main/POSTER-MENU/FILMES/AVENTURA-FILMES.png, AVENTURA | FANTASIA
+https://raw.github.com/PS3-Pro/PlayStation-TV/main/lists/content/movies/AVENTURA.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LANÇAMENTOS" tvg-logo="https://raw.githubusercontent.com/SANTPLAY/POSTERFLIX/main/POSTER-MENU/FILMES/COMEDIA-FILMES.png, COMEDIA | FAMILIA
+https://raw.github.com/PS3-Pro/PlayStation-TV/main/lists/content/movies/COMEDIA.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LANÇAMENTOS" tvg-logo="https://raw.githubusercontent.com/SANTPLAY/POSTERFLIX/main/POSTER-MENU/FILMES/CORRIDA-FILMES.png, CORRIDA | ADRENALINA
+https://raw.github.com/PS3-Pro/PlayStation-TV/main/lists/content/movies/CORRIDA.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LANÇAMENTOS" tvg-logo="https://raw.githubusercontent.com/SANTPLAY/POSTERFLIX/main/POSTER-MENU/FILMES/GUERRA-FILMES.png, GUERRA | MYTHOLOGIA
+https://raw.github.com/PS3-Pro/PlayStation-TV/main/lists/content/movies/GUERRA.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LANÇAMENTOS" tvg-logo="https://raw.githubusercontent.com/SANTPLAY/POSTERFLIX/main/POSTER-MENU/FILMES/LUTA-FILMES.png, LUTA | ARTES MARCIAIS
+https://raw.github.com/PS3-Pro/PlayStation-TV/main/lists/content/movies/LUTA.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LANÇAMENTOS" tvg-logo="https://raw.githubusercontent.com/SANTPLAY/POSTERFLIX/main/POSTER-MENU/FILMES/ROMANCE-FILMES.png, ROMANCE | DRAMA
+https://raw.github.com/PS3-Pro/PlayStation-TV/main/lists/content/movies/ROMANCE.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LANÇAMENTOS" tvg-logo="https://raw.githubusercontent.com/SANTPLAY/POSTERFLIX/main/POSTER-MENU/FILMES/FICCAO-FILMES.png, FICCAO | CIENCIA
+https://raw.github.com/PS3-Pro/PlayStation-TV/main/lists/content/movies/SUSPENSE.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LANÇAMENTOS" tvg-logo="https://raw.githubusercontent.com/SANTPLAY/POSTERFLIX/main/POSTER-MENU/FILMES/TERROR-FILMES.png, TERROR | SUSPENSE
+https://raw.github.com/PS3-Pro/PlayStation-TV/main/lists/content/movies/TERROR.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LANÇAMENTOS" tvg-logo="https://raw.githubusercontent.com/SANTPLAY/POSTERFLIX/main/POSTER-MENU/FILMES/SAGAS-FILMES.png, SAGAS | ADICIONADOS
+https://raw.github.com/PS3-Pro/PlayStation-TV/main/lists/content/movies/COLECAO.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LANÇAMENTOS" tvg-logo="https://raw.githubusercontent.com/SANTPLAY/POSTERFLIX/main/POSTER-MENU/FILMES/SOLICITADOS-FILMES.png, PEDIDOS | ADICIONADOS
+https://raw.github.com/PS3-Pro/PlayStation-TV/main/lists/content/movies/PEDIDOS.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LANÇAMENTOS" tvg-logo="https://raw.githubusercontent.com/SANTPLAY/POSTERFLIX/main/POSTER-MENU/FILMES/LANCAMENTOS-FILMES.png, LACAMENTOS | ADICIONADOS
+https://raw.github.com/PS3-Pro/PlayStation-TV/main/lists/content/movies/LANCAMENTOS.m3u
