@@ -1,7 +1,7 @@
 <div align="center"> 
 
 # PlayStation® TV
-Streaming service for PS3™ 4K Pro, Content only available in Brazilian Portuguese.
+Streaming service for PS3™ Pro, Content only available in Brazilian Portuguese.
 
   
 ![Github downloads (by repository)](https://img.shields.io/github/downloads/PS3-4K-Pro/PlayStation-TV/total.svg?style=social)
